@@ -29,7 +29,7 @@ int num2 = input.nextInt();
 
 int sum = num1 + num2;
 
-System.out.println(num1 + " + "+num2+" = "+sum);  // printf();  scanf()
+System.out.println(num1 + " + "+num2+" = "+sum);
 }
 
 
